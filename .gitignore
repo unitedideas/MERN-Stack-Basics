@@ -1,4 +1,5 @@
 /config/*
+package-lock.json
 keys.js
 node_modules/*
 .bundle
