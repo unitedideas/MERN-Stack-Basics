@@ -1,6 +1,6 @@
 /config/*
 keys.js
-
+/node_modules/*
 .bundle
 .rbx/
 db/*.sqlite3
