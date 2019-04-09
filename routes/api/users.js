@@ -6,6 +6,10 @@ const router = express.Router()
 // @access  Private
 router.get('/test', (req, res)=> res.json({msg: 'Users Works'}))
 
+// @route   GET /api/users/test
+// @desc    Tests users route
+// @access  Private
+
 module.exports = router
 
 
